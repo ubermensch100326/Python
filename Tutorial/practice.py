@@ -6,3 +6,7 @@ print(5+3)
 print(2*8)
 print(2**5)
 print("test")
+
+
+
+import numpy as np
